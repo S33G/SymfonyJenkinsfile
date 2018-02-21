@@ -1,1 +1,3 @@
-# jenkins-golang-experiment
+# SymfonyJenkinsfile
+
+My wayof Jenkinsifying a Symfony Project.
